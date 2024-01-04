@@ -6,5 +6,5 @@ The first session focuses on time series visualization using advanced functions 
 The second session addresses time series manipulation. We teach how to perform webscrapping of the Peruvian Central Bank (BCRP) statistics database and Yahoo Finance by means of two libraries. Then we teach how to find the ACF and PACF, as well as how to generate some time series, such as white noise, random walk, autoregressive processes (AR) and moving average processes (MA). We present the equivalence between an AR(1) and an MA(∞). Finally, we show how to use the information criteria to find the best model. 
 
 ### Teacher: Esteban Cabrera (esteban.cabrera@pucp.edu.pe)
-### Duration: 4h 
+### Length: 4h 
 
