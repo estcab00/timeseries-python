@@ -1,4 +1,4 @@
-# TimeSeries_Python
+# Time Series Manipulation and Visualization in Python
 The workshop addresses the fundamentals of time series plotting and manipulation with Python. It was designed to be lectured at the Artificial Intelligence and Computational Methods in the Social Sciences lab - QLAB PUCP. The objective is to provide the student with the fundamental knowledge to process, manage and visualize time series databases in Python. The workshop is divided in two sessions. 
 
 The first session focuses on time series visualization using advanced functions in matplotlib.pyplot and seaborn. It teaches how to make aggregate plots, summary statistics plots, time series decomposition and multiple time series plotting.
