@@ -6,14 +6,14 @@ The workshop addresses the fundamentals of time series plotting and manipulation
 📑 The syllabus is available [here](https://drive.google.com/file/d/1aq0P9h7GxHKmNW6iPEEO4OlumDv7lcUV/view).
 
 ## 📚 Structure
-- **📅 Sessions:** Contains the four sessions of the workshop, detailed below:
-  - `Session 1 - Introduction to Time Series`: Introduction to time series in Python.
-  - `Session 2 - Time Series Visualization`: Data visualization of time series with Matplotlib.
-  - `Session 3 - Time Series Extraction`: Extraction of time series data using web scraping.
-  - `Session 4 - Time Series Analysis`: Introduction to macroeconometrics with Python.
-- **📊 Data:** Contains the databases to be used during the workshop.
-- **🖼️ Images:** Contains images used during the sessions, including charts and plots.
-- **📝 Assignment:** Contains the assignment instructions for participants.
+- **📅 sessions:** Contains the four sessions of the workshop, detailed below:
+  - `01_Time_Series_Introduction`: Introduction to time series in Python.
+  - `02_Time_Series_Visualization`: Data visualization of time series with Matplotlib.
+  - `03_Time_Series_Extraction`: Extraction of time series data using web scraping.
+  - `04_Time_Series_Analysis`: Introduction to macroeconometrics with Python.
+- **📊 data:** Contains the datasets to be used during the workshop.
+- **🖼️ images:** Contains images used during the sessions, including charts and plots.
+- **📝 assignment:** Contains the assignment instructions for participants.
 
 ## 👨‍🏫 Lecturer
 
